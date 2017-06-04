@@ -7,6 +7,8 @@ The program then tweets out the link with the product name on to your twitter. (
 
 // Coming Soon...
 
+MAKE SURE TO USE http:// or https:// at the beggining and / at the end!
+
 ### Prerequisites
 
 Python Requirements needed for this program!
