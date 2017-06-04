@@ -38,6 +38,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Code by - https://github.com/btw6391/btShopifyBot
+* Base Idea by - https://github.com/btw6391/btShopifyBot
 * I am starting to get really into the sneaker reselling business and have always had a passion for computers and programming
 * Any questions or concerns please email me @ sublimesneaks@gmail.com
