@@ -1,0 +1,12 @@
+{
+  "twitterAccessKeys": [
+    {"consumer_key": "Consumer Key here!"},
+    {"consumer_secret": "Consumer Secret Key here!"},
+    {"access_token": "Access Token here!"},
+    {"access_token_secret": "Access Token Secret here!"}
+  ]
+  {"link": [
+    {"baseLink": "http://yeezysupply.com/"}
+    ]
+  }
+}
